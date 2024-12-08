@@ -47,7 +47,7 @@
 ## 🔄 CI/CD Pipeline
 ![image](https://github.com/user-attachments/assets/adf32f8a-ab4e-4d06-befe-0af927adb7df)
 
-## ⚒️ 기술스택
+## ⚒️ Technology Stacks
 <table align="center">
   <tr>
     <th>Frontend</th>
