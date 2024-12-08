@@ -1,24 +1,53 @@
-# Team Name: SoGoing
-# Project Title: 시대평
-# Participants
-| 학번        | 이름   | 역할         |
-| ----------- | ------ | ------------ |
-| 2020920032  | 석우진  |    BE       |
-| 2020920039  | 이강민  |    FE, PM      |
-| 2020920055  | 정구홍  |     BE       |
-| 2020920059  | 조종빈  |     FE      |
-| 2021120009  | 김고은  |     FE       |
-| 2022920027  | 박상윤  |     TW, UI/UX       |
+# Software Engineering Project: 시대평
 
-# 💁‍♂️ 소개
-직체/근로가 궁금한 시대인을 위해 별점과 후기부터!<br>
-나에게 딱 맞는 모집공고가 여기 다 모였다 👀
-** 학교에서 돈벌고 싶은 당신을 위한, 모든 정보 🔍**
+## 👥 Participants
 
-[협업 노션🎡 ](https://www.notion.so/10119f99710d80418c55e48223e77fe9)<br>
+| 학번        | 이름   | 역할        |
+| ----------- | ------ | ---------|
+| 2020920032  | 석우진  | BE |
+| 2020920039  | 이강민  | FE, PM |
+| 2020920055  | 정구홍  | BE |
+| 2020920059  | 조종빈  | FE |
+| 2021120009  | 김고은  | FE |
+| 2022920027  | 박상윤  | TW, UI/UX |
 
+## 🎯 Project Scope
+본 프로젝트는 서울시립대학교 컴퓨터과학부 2024년 소프트웨어공학 프로젝트로, Software Development Life-Cycle을 기반으로 객체지향 소프트웨어공학 방법론을 적용하여 학내 직체/근로 정보 공유 및 지원 플랫폼을 개발하였습니다.
 
-# ⚒️ 기술스택
+## ⏰ Project Duration
+- 2024.09 - 2024.12
+
+## 🌟 Highlighted Features
+### 통합 정보 시스템
+- 부서별 상세 정보 제공
+- 실제 근무자들의 후기 및 평점 시스템
+- 모집 공고 통합 관리 및 조회
+
+### 온라인 지원 프로세스
+#### 학생용
+- 원클릭 온라인 지원서 작성 및 제출
+- 지원한 지원서 관리
+- 관심 부서 저장
+
+#### 교직원용
+- 직관적인 지원자 명단 관리
+- 지원자 필터링 및 정렬 기능
+- 간편한 모집 상태 관리
+
+### 후기 시스템
+- 익명성이 보장된 솔직한 후기 작성
+- 부서별 평점 통계 제공
+
+## 🎥 Demo Video
+[데모 영상]
+
+## 🏗 High-level Architecture
+![image](https://github.com/user-attachments/assets/a3d7ea4a-2786-4fb7-8e63-2c26ba29398b)
+
+## 🔄 CI/CD Pipeline
+![image](https://github.com/user-attachments/assets/adf32f8a-ab4e-4d06-befe-0af927adb7df)
+
+## ⚒️ 기술스택
 <table align="center">
   <tr>
     <th>Frontend</th>
@@ -63,44 +92,16 @@
   </tr>
 </table>
 
-# 기능
+## 📄 Project Deliverables
+### Documentation
+- [요구사항 분석 명세서](https://github.com/uosogong/Assignment/blob/main/artifacts/SoGoing_SRS.docx)
+- [소프트웨어 아키텍처 문서](https://github.com/uosogong/Assignment/blob/main/artifacts/Sogoing_Architecture.docx)
+- [소프트웨어 설계 문서](https://github.com/uosogong/Assignment/tree/main/artifacts/diagrams)
+- [UI/UX 디자인](https://github.com/uosogong/Assignment/blob/main/artifacts/Sogoing_UI.docx)
+- [코딩 표준 문서](https://github.com/uosogong/Assignment/blob/main/artifacts/SoGoing_CodingStandard_RepositoryManagement_ReviewProcess.docx)
 
-## 📍 주요 기능
-
-###  공통 기능
-- **부서별 소개 페이지** 제공
-
-### 학생용 기능
-- 직체/근로에 대한 **별점과 후기 조회 기능** 🔍🔐
-- 직체/근로에 대한 **별점과 후기 작성 기능** ✍🏻 *(포인트 사용)*
-  
-### 교직원용 기능
-- 부서별 **admin 계정 기본 제공**
-- 직체/근로 **모집 공고 등록 기능** ⌨️
-- 버튼 클릭 한 번으로 **모집 상태 변경** (마감/모집중) ⚒️
-
----
-
-## 📍 보조 기능
-
-### 학생용 기능
-- **모집 공고 확인** 및 **시간표 필터링**을 통한 직무 추천 👀
-- 직체/근로 **지원 서류 작성 가능** ✍🏻
-- 모집 중인 공고 **찜하기 기능** 💌 *(기한 지나거나, 마감되면 자동 삭제)*
-- **포인트 사용** 후 후기 작성 시, 다른 후기 열람 가능 👀
-
-### 교직원용 기능
-- **지원자 리스트** 확인 📋
-- 지원자의 시간표를 비교하여 **근무 가능한 지원자 선택** (필터링: 시간표, 선호 능력) 🙇🏻‍♀️
-
----
-
-### 기타 정보
-- **포인트 시스템**: 학생이 후기를 작성해야 다른 사람의 후기를 볼 수 있음.
-
-
-# Classroom Activities : 
-<a>https://github.com/uosogong/.github/blob/main/classroom/classroom_activity.md</a>
-
-# Assignment:
-<a>https://github.com/uosogong/Assignment</a>
+## 📌 Additional Resources
+- [Notion](https://www.notion.so/10119f99710d80418c55e48223e77fe9)
+- [Figma](https://www.figma.com/design/zzEy1kaOofPCNHccNPCCRX/Sogoing_%EC%8B%9C%EB%8C%80%ED%8F%89?node-id=0-1&t=EgPOa3EGrebJWOR3-1)
+- [Classroom Activities](https://github.com/uosogong/.github/blob/main/classroom/classroom_activity.md)
+- [Assignments](https://github.com/uosogong/Assignment)
