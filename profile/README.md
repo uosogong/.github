@@ -53,11 +53,10 @@
     <th>Frontend</th>
     <td>
       <img alt='react' src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"> 
-      <img alt='typescript' src="https://img.shields.io/badge/typeScript-61DAFB.svg?&style=flat-square&logo=typescript&logoColor=white"> 
-      <img alt="redux" src ="https://img.shields.io/badge/redux-764ABC.svg?&style=flat-square&logo=redux&logoColor=white"/>
       <img alt="axios" src ="https://img.shields.io/badge/axios-5A29E4.svg?&style=flat-square&logo=axios&logoColor=white"/>
       <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
       <img alt="vite" src ="https://img.shields.io/badge/vite-646CFF.svg?&style=flat-square&logo=vite&logoColor=white"/>
+      <img alt="jotai" src="https://img.shields.io/badge/jotai-89A5FF.svg?&style=flat-square&logo=jotai&logoColor=white"/>
     </td>
   </tr>
   <tr>
