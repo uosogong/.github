@@ -39,7 +39,9 @@
 - 부서별 평점 통계 제공
 
 ## 🎥 Demo Video
-[데모 영상]
+- [데모 영상 보러가기 🖱️](https://www.notion.so/Demo-16819f99710d807285a2cc75c0dcbcea?pvs=4)
+
+
 
 ## 🏗 High-level Architecture
 ![image](https://github.com/user-attachments/assets/a3d7ea4a-2786-4fb7-8e63-2c26ba29398b)
