@@ -41,13 +41,11 @@
 ## 🎥 Demo Video
 - [데모 영상 보러가기 🖱️](https://www.notion.so/Demo-16819f99710d807285a2cc75c0dcbcea?pvs=4)
 
-
-
 ## 🏗 High-level Architecture
-![image](https://github.com/user-attachments/assets/a3d7ea4a-2786-4fb7-8e63-2c26ba29398b)
+![architecture](https://github.com/user-attachments/assets/2e6a9b61-2176-44a2-b856-0eb1ee373a6d)
 
 ## 🔄 CI/CD Pipeline
-![image](https://github.com/user-attachments/assets/adf32f8a-ab4e-4d06-befe-0af927adb7df)
+![cicd](https://github.com/user-attachments/assets/db23593b-6e5f-48de-bf58-bb8af406a314)
 
 ## ⚒️ Technology Stacks
 <table align="center">
